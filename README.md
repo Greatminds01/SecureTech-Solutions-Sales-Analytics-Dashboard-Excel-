@@ -3,35 +3,27 @@
 <img width="1441" height="614" alt="SecureTech Solutions – Sales Analytics Dashboard" src="https://github.com/user-attachments/assets/46dc41a3-7a12-4798-86fd-27f78f90a233" />
 
 
-### 📑 Table of Contents
+## 📑 Table of Contents  
 
-### Business Context
+- [Business Context](#business-context)  
+- [Project Overview](#project-overview)  
+- [Workflow](#workflow)  
+  - [Data Preparation](#data-preparation)  
+  - [Analysis](#analysis)  
+  - [Dashboard Development](#dashboard-development)  
+- [Insights & Recommendations](#insights--recommendations)  
+- [Outcomes](#outcomes)  
+- [Tools Used](#tools-used)  
+- [Learnings](#learnings)  
 
-### Project Overview
 
-### Workflow
-
-### Data Preparation
-
-### Analysis
-
-### Dashboard Development
-
-### Insights & Recommendations
-
-### Outcomes
-
-### Tools Used
-
-### Learnings
-
-🏢 Business Context
+## 🏢 Business Context
 
 SecureTech Solutions, a security technology provider operating across Nigeria, South Africa, Kenya, and Morocco, was expanding its regional footprint but lacked visibility into its growing sales pipeline. The sales team struggled to prioritize urgent opportunities, track rep performance, and align resources across countries.
 
 This project provided an Excel-based Sales Analytics Dashboard that transformed raw sales data into actionable insights, enabling better pipeline management, lead prioritization, and strategic decision-making.
 
-📌 Project Overview
+## 📌 Project Overview
 
 This dashboard enables sales managers to:
 
@@ -43,7 +35,7 @@ Prioritize high-value, urgent opportunities
 
 Improve pipeline forecasting and reporting
 
-🛠️ Workflow
+## 🛠️ Workflow
 1. Data Preparation
 
 Cleaned raw sales data (deal size, urgency, sales stage, rep assignment)
@@ -70,7 +62,7 @@ Interactivity: Slicers (Country, Urgency, Sales Rep, Stage)
 
 Conditional formatting for quick insights
 
-🔍 Insights & Recommendations
+## 🔍 Insights & Recommendations
 
 Morocco → High deal value but few reps → allocate additional sales staff
 
@@ -80,7 +72,7 @@ Rep John → High-value deals but low closure → provide coaching/support
 
 Urgency → Many urgent deals stuck in early stages → implement fast-track process and tighter follow-up
 
-✅ Outcomes
+## ✅ Outcomes
 
 Clear visibility into pipeline health across regions
 
@@ -90,13 +82,13 @@ Informed strategic rep assignments
 
 Improved sales forecasting and reporting
 
-📁 Tools Used
+## 📁 Tools Used
 
 Microsoft Excel (PivotTables, Charts, Slicers, Conditional Formatting)
 
 Manual + formula-based data cleaning
 
-🚀 Learnings
+## 🚀 Learnings
 
 Reinforced importance of data cleaning for accurate analysis
 
