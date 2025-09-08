@@ -1,72 +1,105 @@
 # SecureTech-Solutions-Sales-Analytics-Dashboard-Excel-
 
-🏬 Business Context
+<img width="1441" height="614" alt="SecureTech Solutions – Sales Analytics Dashboard" src="https://github.com/user-attachments/assets/46dc41a3-7a12-4798-86fd-27f78f90a233" />
+
+
+### 📑 Table of Contents
+
+### Business Context
+
+### Project Overview
+
+### Workflow
+
+### Data Preparation
+
+### Analysis
+
+### Dashboard Development
+
+### Insights & Recommendations
+
+### Outcomes
+
+### Tools Used
+
+### Learnings
+
+🏢 Business Context
 
 SecureTech Solutions, a security technology provider operating across Nigeria, South Africa, Kenya, and Morocco, was expanding its regional footprint but lacked visibility into its growing sales pipeline. The sales team struggled to prioritize urgent opportunities, track rep performance, and align resources across countries.
+
 This project provided an Excel-based Sales Analytics Dashboard that transformed raw sales data into actionable insights, enabling better pipeline management, lead prioritization, and strategic decision-making.
 
 📌 Project Overview
 
-Developed an interactive Excel-based Sales Analytics Dashboard for SecureTech Solutions, a Lagos-based security technology provider operating across Nigeria, South Africa, Kenya, and Morocco. The dashboard addressed challenges in lead prioritization, regional performance tracking, and product-level analysis.
+This dashboard enables sales managers to:
 
-🎯 Goals
+Assess total deal value by country, product type, and urgency level
 
-Quantify deal size by country, product type, urgency
+Evaluate sales rep and regional performance
 
-Evaluate sales rep & regional performance
+Prioritize high-value, urgent opportunities
 
-Enable real-time reporting through interactive visuals
+Improve pipeline forecasting and reporting
 
 🛠️ Workflow
-
-Data Preparation
+1. Data Preparation
 
 Cleaned raw sales data (deal size, urgency, sales stage, rep assignment)
 
-Created derived columns for segmentation (urgency tiers, product groups)
+Created derived columns for segmentation (urgency tiers, product categories)
 
-🔹 Analysis
+2. Analysis
 
-PivotTables for pipeline breakdowns by region, rep, product, and stage
+Built PivotTables for:
 
-✅ Dashboard Development
+Deal value by country/product/urgency
 
-KPIs: Total Deal Value, Urgent Deals, Top Reps
+Rep and regional sales performance
 
-Visuals: Bar, Donut, Stacked Column, Summary Tables
+Pipeline stage breakdowns
 
-Interactivity: Slicers (Country, Urgency, Rep, Stage)
+3. Dashboard Development
+
+KPIs: Total Deal Value, High-Urgency Deals, Top Performing Reps
+
+Visuals: Bar charts, stacked columns, donut charts, summary tables
+
+Interactivity: Slicers (Country, Urgency, Sales Rep, Stage)
 
 Conditional formatting for quick insights
 
-✅ Outcomes
-
-Improved pipeline visibility for managers across branches
-
-Supported lead prioritization and rep coaching strategies
-
-Enhanced forecasting & stakeholder reporting
-
 🔍 Insights & Recommendations
 
-Morocco → High deal value but few reps → allocate additional resources
+Morocco → High deal value but few reps → allocate additional sales staff
 
-Kenya → Rising demand for safe deposit boxes → launch targeted campaign
+Kenya → Rising demand for safe deposit boxes → launch targeted campaign and boost inventory
 
-Rep John → High-value deals, low closure → provide coaching/support
+Rep John → High-value deals but low closure → provide coaching/support
 
-Urgency → Most high-priority deals stuck in early stages → create fast-track process for follow-up
+Urgency → Many urgent deals stuck in early stages → implement fast-track process and tighter follow-up
+
+✅ Outcomes
+
+Clear visibility into pipeline health across regions
+
+Better lead prioritization based on urgency and value
+
+Informed strategic rep assignments
+
+Improved sales forecasting and reporting
 
 📁 Tools Used
 
-Microsoft Excel (PivotTables, Slicers, Conditional Formatting)
+Microsoft Excel (PivotTables, Charts, Slicers, Conditional Formatting)
 
-Manual + Formula-based data cleaning
+Manual + formula-based data cleaning
 
 🚀 Learnings
 
-Importance of data preparation for meaningful analysis
+Reinforced importance of data cleaning for accurate analysis
 
-Value of visual storytelling for non-technical stakeholders
+Improved dashboard design skills with focus on clarity, interactivity, and storytelling
 
-Excel can deliver lightweight yet powerful BI solutions
+Demonstrated how Excel can function as a lightweight BI tool for non-technical stakeholders
